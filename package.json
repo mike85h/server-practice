@@ -1,7 +1,6 @@
 {
   "name": "server-practice",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike85h/server-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mike85h/server-practice/issues"
+  },
+  "homepage": "https://github.com/mike85h/server-practice#readme",
+  "description": ""
 }

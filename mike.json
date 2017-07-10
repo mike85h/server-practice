@@ -1,0 +1,12 @@
+{
+  "Name":"Mike",
+  "full-name": "Mike Harrington",
+  "description": "Some Duder",
+  "age": 31,
+  "favorites": {
+    "color": "green",
+    "number": 4,
+    "animal": "dogs"
+  }
+
+}
