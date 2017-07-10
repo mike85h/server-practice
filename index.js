@@ -7,7 +7,7 @@ server.get('/', function(request, response){
 })
 
 server.get('/mike', function(request, response){
-  response.send(mike)
+  response.json(mike)
 })
 
 server.get('*', function(request, response){
